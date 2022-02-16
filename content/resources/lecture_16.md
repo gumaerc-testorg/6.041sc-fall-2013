@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/de1d3cd7b9ea6e271478cda527a3a164_Lecture_16.jpg
+file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/de1d3cd7b9ea6e271478cda527a3a164_Lecture_16.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Lecture 16: Markov Chains - I'
+parent_type: CourseSection
 resourcetype: Image
 title: Lecture_16.jpg
 uid: de1d3cd7-b9ea-6e27-1478-cda527a3a164

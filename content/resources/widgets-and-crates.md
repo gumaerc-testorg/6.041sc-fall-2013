@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Lecture 12: Iterated Expectations; Sum of a Random Number of Random
+  Variables'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Widgets and Crates
 uid: 8c6c0b70-f3ac-4a58-f4de-03cc789541d4

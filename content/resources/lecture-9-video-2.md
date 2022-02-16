@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[Multiple continuous Random Variables (PDF)](resources/mit6_041scf13_l09)'
+parent_title: Resource Index
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 9: Multiple continuous Random Variables'
 uid: 7218d262-93dc-57b4-0979-03c35049555e

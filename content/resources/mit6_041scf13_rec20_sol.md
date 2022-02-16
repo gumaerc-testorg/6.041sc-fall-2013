@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/63948cd4f2d28a68774dc4ecd3b7fbaf_MIT6_041SCF13_rec20_sol.pdf
+file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/63948cd4f2d28a68774dc4ecd3b7fbaf_MIT6_041SCF13_rec20_sol.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Unit IV: Laws Of Large Numbers And Inference'
+parent_type: CourseSection
 resourcetype: Document
 title: 6.041SC Probabilistic Systems Analysis, Recitation 20 Solutions
 uid: 63948cd4-f2d2-8a68-774d-c4ecd3b7fbaf

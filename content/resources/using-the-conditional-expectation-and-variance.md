@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Lecture 12: Iterated Expectations; Sum of a Random Number of Random
+  Variables'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Using the Conditional Expectation and Variance
 uid: 079a6f5b-35aa-2d04-87bb-72fdb8955b4c

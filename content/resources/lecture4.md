@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/c842c7b1e2ab2b592c0363995ddb5925_Lecture4.jpg
+file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/c842c7b1e2ab2b592c0363995ddb5925_Lecture4.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Lecture 4: Counting'
+parent_type: CourseSection
 resourcetype: Image
 title: Lecture4.jpg
 uid: c842c7b1-e2ab-2b59-2c03-63995ddb5925

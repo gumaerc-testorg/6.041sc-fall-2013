@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Lecture 5: Discrete Random Variables; Probability Mass Functions; Expectations'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: PMF of a Function of a Random Variable
 uid: 3e902ecf-fa9a-3c45-9cb5-45c9859eb007

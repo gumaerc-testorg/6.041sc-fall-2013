@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[Weak Law of Large Numbers (PDF)](resources/mit6_041scf13_l19)'
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 19: Weak Law of Large Numbers'
 uid: 2b2d07d5-49d2-d90c-a5aa-a2011bc4bd0b

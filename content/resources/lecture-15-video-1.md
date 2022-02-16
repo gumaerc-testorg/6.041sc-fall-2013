@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[Poisson Process - II (PDF)](resources/mit6_041scf13_l15)'
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 15: Poisson Process - II'
 uid: 7502c17e-f3e0-ffae-91a3-fd714d52baf5

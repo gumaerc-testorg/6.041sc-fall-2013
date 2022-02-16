@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[Central Limit Theorem (PDF)](resources/mit6_041scf13_l20)'
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 20: Central Limit Theorem'
 uid: 2e1fa669-1511-4310-bd27-608737d4603c

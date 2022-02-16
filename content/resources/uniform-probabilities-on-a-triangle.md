@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Lecture 9: Multiple Continuous Random Variables'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Uniform Probabilities on a Triangle
 uid: 003f21de-d9cb-beff-abb8-0f9c4f6c5547

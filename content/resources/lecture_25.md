@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/46257ea171b5b8a2d0343a2bd74dd0ad_Lecture_25.jpg
+file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/46257ea171b5b8a2d0343a2bd74dd0ad_Lecture_25.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Lecture 25: Classical Inference - III'
+parent_type: CourseSection
 resourcetype: Image
 title: Lecture_25.jpg
 uid: 46257ea1-71b5-b8a2-d034-3a2bd74dd0ad

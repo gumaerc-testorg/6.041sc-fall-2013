@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[Bayesian Statistical Inference - II (PDF)](resources/mit6_041scf13_l22)'
+parent_title: Resource Index
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 22: Bayesian Statistical Inference - II'
 uid: a5711ec5-3497-a5cb-1ceb-ba22b0395cd4

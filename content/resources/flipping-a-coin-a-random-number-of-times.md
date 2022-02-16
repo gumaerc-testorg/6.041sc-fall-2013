@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Lecture 6: Discrete Random Variable Examples; Joint PMFs'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Flipping a Coin a Random Number of Times
 uid: 41fcc29c-92b0-c73d-a630-597d2b0d92fb

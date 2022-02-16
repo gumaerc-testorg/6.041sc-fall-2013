@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/7fcc2325155ea6be487a0b2e556e9848_MIT6_041SCF13_assn11_sol.pdf
+file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/7fcc2325155ea6be487a0b2e556e9848_MIT6_041SCF13_assn11_sol.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Lecture 25: Classical Inference - III'
+parent_type: CourseSection
 resourcetype: Document
 title: 6.041SC Probabilistic Systems Analysis, Problem Set 11 Solutions
 uid: 7fcc2325-155e-a6be-487a-0b2e556e9848

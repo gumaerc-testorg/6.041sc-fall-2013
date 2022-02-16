@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[Derived Distributions; Convolution; Covariance and Correlation (PDF)](resources/mit6_041scf13_l11)'
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 11: Derived Distributions Convolution Covariance and Correlation'
 uid: ff9a9c7a-9ba7-0e40-1fd1-ea748e450169

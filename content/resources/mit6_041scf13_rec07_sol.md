@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/f652dd20ad9dc6e2508a71ec8bf228ab_MIT6_041SCF13_rec07_sol.pdf
+file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/f652dd20ad9dc6e2508a71ec8bf228ab_MIT6_041SCF13_rec07_sol.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Lecture 7: Multiple Discrete Random Variables'
+parent_type: CourseSection
 resourcetype: Document
 title: 6.041SC Probabilistic Systems Analysis, Recitation 7 Solutions
 uid: f652dd20-ad9d-c6e2-508a-71ec8bf228ab

@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[Bernoulli Process (PDF)](resources/mit6_041scf13_l13)'
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 13: Bernoulli Process'
 uid: 5b59e275-5eeb-8da4-3b06-66797b3a08f7

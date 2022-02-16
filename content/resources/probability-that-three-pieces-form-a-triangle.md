@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Lecture 9: Multiple Continuous Random Variables'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Probability that Three Pieces Form a Triangle
 uid: 54b6ff9c-5520-8c12-8b2b-9cf8e6af3e5e

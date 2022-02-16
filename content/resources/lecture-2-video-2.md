@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[Conditioning and Bayes'' Rule2 (PDF)](resources/mit6_041scf13_l02)'
+parent_title: Resource Index
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 2: Conditioning and Bayes'' Rule2'
 uid: 49c5c7b9-d9fc-8250-ea48-c375af771d59

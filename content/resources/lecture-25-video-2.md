@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[Classical Inference - III; Course Review (PDF)](resources/mit6_041scf13_l25)'
+parent_title: Resource Index
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 25: Classical Inference - III Course Review'
 uid: ba60775a-2329-f5b6-3e0b-41807f9e6abd

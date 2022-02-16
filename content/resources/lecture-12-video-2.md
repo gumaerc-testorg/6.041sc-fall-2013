@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[Iterated Expectations; Sum of a Random Number of Random variables
+  (PDF)](resources/mit6_041scf13_l12)'
+parent_title: Resource Index
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 12: Iterated Expectations Sum of a Random Number of Random variables'
 uid: 904f21eb-f4b5-3d70-9a8c-73e0f0492902

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Lecture 10: Continuous Bayes'' Rule; Derived Distributions'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: The Probability Distribution Function (PDF) of [X]
 uid: dc0a2006-0c2e-3e64-23b8-30407b8e5d90

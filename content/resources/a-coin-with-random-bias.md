@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Lecture 12: Iterated Expectations; Sum of a Random Number of Random
+  Variables'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: A Coin with Random Bias
 uid: 59ac203d-fab2-ca15-6305-1b1b93add857

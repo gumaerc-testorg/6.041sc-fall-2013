@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Lecture 8: Continuous Random Variables'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Calculating a Cumulative Distribution Function (CDF)
 uid: dff605ac-9b7b-48a0-9c58-4deb61857121

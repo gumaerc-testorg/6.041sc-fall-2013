@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit III: Random Processes'
+parent_type: CourseSection
 parent_uid: a407050c-bd3a-de7c-ddf4-8a582ba1ed50
 title: 'Lecture 13: Bernoulli Process'
 uid: c2de91c2-c31e-3e16-f00c-bc8087ae8b53

@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/90007687cd614b870be739778506348e_MIT6_041SCF13_rec04_sol.pdf
+file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/90007687cd614b870be739778506348e_MIT6_041SCF13_rec04_sol.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Lecture 4: Counting'
+parent_type: CourseSection
 resourcetype: Document
 title: 6.041SC Probabilistic Systems Analysis, Recitation 4 Solutions
 uid: 90007687-cd61-4b87-0be7-39778506348e

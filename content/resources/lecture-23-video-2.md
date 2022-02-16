@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[Classical Statistical Inference - I (PDF)](resources/mit6_041scf13_l23)'
+parent_title: Resource Index
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Lecture 23 Classical Statistical Inference - I
 uid: 016c650f-383d-57e2-ebae-17b94be36103

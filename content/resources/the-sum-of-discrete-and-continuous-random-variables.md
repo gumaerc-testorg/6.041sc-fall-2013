@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Lecture 11: Derived Distributions; Convolution; Covariance and Correlation'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: The Sum of Discrete and Continuous Random Variables
 uid: 93a20e4e-828f-7a9f-e452-cdb21dc4bcb8

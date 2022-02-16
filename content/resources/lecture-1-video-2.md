@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[Probability Models and Axioms1 (PDF)](resources/mit6_041scf13_l01)'
+parent_title: Resource Index
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1: Probability Models and Axioms1'
 uid: 22d0cb63-5f7f-bcca-4826-0f30f056c24f

@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[Bayesian Statistical Inference - I (PDF)](resources/mit6_041scf13_l21)'
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 21: Bayesian Statistical Inference - I'
 uid: b757301c-1506-cf8a-7cb5-5b97f2657296

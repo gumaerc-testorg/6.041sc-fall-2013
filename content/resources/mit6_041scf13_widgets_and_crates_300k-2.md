@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/39226cca011b446dae4e46373b0578eb_MIT6_041SCF13_Widgets_and_Crates_300k.pdf
+file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/39226cca011b446dae4e46373b0578eb_MIT6_041SCF13_Widgets_and_Crates_300k.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Unit II: General Random Variables'
+parent_type: CourseSection
 resourcetype: Document
 title: "6.041SC Probabilistic Systems Analysis and Applied Probability, Fall 2013\
   \ Transcript \u2013 Recitation: Widgets and Crates"

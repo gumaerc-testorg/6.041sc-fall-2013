@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit IV: Laws Of Large Numbers And Inference'
 uid: fcbf3273-e11e-bbee-8eef-a7788388f87a
 ---

@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/404379718320a6a97c7030e90c5df882_Lecture_22.jpg
+file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/404379718320a6a97c7030e90c5df882_Lecture_22.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Lecture 22: Bayesian Statistical Inference - II'
+parent_type: CourseSection
 resourcetype: Image
 title: Lecture_22.jpg
 uid: 40437971-8320-a6a9-7c70-30e90c5df882

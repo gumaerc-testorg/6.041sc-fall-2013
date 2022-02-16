@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[Markov Chains - II (PDF)](resources/mit6_041scf13_l17)'
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 17: Markov Chains - II'
 uid: c286711b-6f9b-e3d9-364d-9b1a42bbe5c5

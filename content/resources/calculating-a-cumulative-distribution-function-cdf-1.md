@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Resource Index
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Calculating a Cumulative Distribution Function (CDF)
 uid: 7ae83313-c81d-3e7b-1b55-cf9cbb8f4330

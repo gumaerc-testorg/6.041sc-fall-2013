@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[Multiple Discrete Random Variables (PDF)](resources/mit6_041scf13_l07)'
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 7: Multiple Discrete Random Variables'
 uid: 3ead59d6-6f21-e19c-fa93-0759235d5570

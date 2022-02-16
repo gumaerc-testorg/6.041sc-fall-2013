@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Lecture 19: Weak Law of Large Numbers'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Convergence in Probability and in the Mean Part 2
 uid: 11e99dd6-5332-57be-b13e-efdd458c2eb2

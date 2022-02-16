@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: '[Classical Inference - II (PDF)](resources/mit6_041scf13_l24)'
+parent_title: Resource Index
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 24: Classical Inference - II'
 uid: a974fb5f-842c-10f6-c261-2dfef390a018

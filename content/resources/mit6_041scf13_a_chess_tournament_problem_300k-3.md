@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/b7edf374289e6719eb23b45681d41371_MIT6_041SCF13_A_Chess_Tournament_Problem_300k.srt
+file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/b7edf374289e6719eb23b45681d41371_MIT6_041SCF13_A_Chess_Tournament_Problem_300k.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: MIT6_041SCF13_A_Chess_Tournament_Problem_300k.srt
 uid: b7edf374-289e-6719-eb23-b45681d41371

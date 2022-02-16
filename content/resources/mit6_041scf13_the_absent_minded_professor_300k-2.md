@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/031730c42a273fb63bf1e7ea83d0ae73_MIT6_041SCF13_The_Absent_Minded_Professor_300k.pdf
+file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/031730c42a273fb63bf1e7ea83d0ae73_MIT6_041SCF13_The_Absent_Minded_Professor_300k.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Unit II: General Random Variables'
+parent_type: CourseSection
 resourcetype: Document
 title: "6.041SC Probabilistic SystemAnalysis and Applied Probability, Fall 2013 Transcript\
   \ \u2013 Tutorial: The Absent Minded Professor"

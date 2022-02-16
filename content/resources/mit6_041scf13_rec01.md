@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/7d7a9f7972d09b7401910ef7bc6a134e_MIT6_041SCF13_rec01.pdf
+file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/7d7a9f7972d09b7401910ef7bc6a134e_MIT6_041SCF13_rec01.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Lecture 1: Probability Models and Axioms'
+parent_type: CourseSection
 resourcetype: Document
 title: 6.041SC Probabilistic Systems Analysis, Recitation 1
 uid: 7d7a9f79-72d0-9b74-0191-0ef7bc6a134e

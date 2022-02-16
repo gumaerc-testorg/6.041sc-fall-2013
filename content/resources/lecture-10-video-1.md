@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[Continuous Bayes'' Rule; Derived Distributions (PDF)](resources/mit6_041scf13_l10)'
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 10: Continuous Bayes'' Rule Derived Distributions'
 uid: 7ebe803a-682d-2183-eda6-aea2403fa2bb

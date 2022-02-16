@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Lecture 6: Discrete Random Variable Examples; Joint PMFs'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 6: Discrete Random Variable Examples; Joint PMFs Video'
 uid: 45c7a713-24f5-dac7-cbb8-ace295851593

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Lecture 10: Continuous Bayes'' Rule; Derived Distributions'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: A Derived Distribution Example
 uid: 14068990-93a1-c5a5-1949-74a8693a2ca5

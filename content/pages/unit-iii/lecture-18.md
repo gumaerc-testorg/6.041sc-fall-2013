@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit III: Random Processes'
+parent_type: CourseSection
 parent_uid: a407050c-bd3a-de7c-ddf4-8a582ba1ed50
 title: 'Lecture 18: Markov Chains - III'
 uid: 8fbf8bfb-c4ce-ea14-c0cc-3541ace7c6a4

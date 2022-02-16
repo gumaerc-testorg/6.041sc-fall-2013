@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/5c9076dafe69620be891850c9a14833b_MIT6_041SCF13_Probability_that_3_Pieces_Form_a_Triangle_300k.pdf
+file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/5c9076dafe69620be891850c9a14833b_MIT6_041SCF13_Probability_that_3_Pieces_Form_a_Triangle_300k.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Unit II: General Random Variables'
+parent_type: CourseSection
 resourcetype: Document
 title: "6.041SC Probabilistic Systems Analysis and Applied Probability, Fall 2013\
   \ Transcript \u2013 Recitation: Probability that Three Pieces Form a Triangle "

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Lecture 18: Markov Chains - III'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Mean First Passage and Recurrence Times
 uid: 8a38b5d7-2222-2ec8-9aca-81bab7c22ef9

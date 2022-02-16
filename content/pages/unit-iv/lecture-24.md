@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit IV: Laws Of Large Numbers And Inference'
+parent_type: CourseSection
 parent_uid: fcbf3273-e11e-bbee-8eef-a7788388f87a
 title: 'Lecture 24: Classical Inference - II'
 uid: 29dea00b-5d03-c47e-e671-3d65b06ab496

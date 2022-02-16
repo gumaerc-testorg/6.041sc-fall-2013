@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit III: Random Processes'
+parent_type: CourseSection
 parent_uid: a407050c-bd3a-de7c-ddf4-8a582ba1ed50
 title: 'Lecture 15: Poisson Process - II'
 uid: 091b0bdf-2c56-e919-8e8d-1be1365e4db6

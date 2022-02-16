@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit III: Random Processes'
 uid: a407050c-bd3a-de7c-ddf4-8a582ba1ed50
 ---

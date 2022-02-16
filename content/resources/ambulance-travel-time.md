@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Lecture 10: Continuous Bayes'' Rule; Derived Distributions'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Ambulance Travel Time
 uid: 48fadeb3-9d92-f444-cf19-5efa5128f8a5
