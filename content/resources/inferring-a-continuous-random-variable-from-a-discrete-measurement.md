@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Inferring a Continuous Random Variable from a Discrete Measurement
 uid: fe3d6eb2-ac9d-8a73-68a2-4f1a2045c3f6
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Calculating a Cumulative Distribution Function (CDF)
 uid: 7ae83313-c81d-3e7b-1b55-cf9cbb8f4330
 video_files:

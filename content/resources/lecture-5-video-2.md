@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Lecture Slides
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 5: Discrete Random Variables Probability Mass Functions Expectations'
 uid: 0c8da735-14b2-90ab-a903-a364d96d2d8f
 video_files:

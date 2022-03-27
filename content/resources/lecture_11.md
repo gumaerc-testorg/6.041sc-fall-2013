@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Lecture 11: Derived Distributions; Convolution; Covariance and Correlation'
 parent_type: CourseSection
+parent_uid: 4359e52b-be89-7809-e0a4-c64ed6ae4af7
 resourcetype: Image
 title: Lecture_11.jpg
 uid: 1e00f522-3240-da5d-9076-8fd44c3db854

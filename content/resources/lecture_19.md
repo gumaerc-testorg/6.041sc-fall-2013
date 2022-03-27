@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Lecture 19: Weak Law of Large Numbers'
 parent_type: CourseSection
+parent_uid: a7292289-e3eb-1f87-59fe-7822a15409c3
 resourcetype: Image
 title: Lecture_19.jpg
 uid: 26bdaf1b-09d1-be4d-3cb0-5b4b6ca7feff

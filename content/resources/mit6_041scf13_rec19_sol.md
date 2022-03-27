@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 18: Markov Chains - III'
 parent_type: CourseSection
+parent_uid: 8fbf8bfb-c4ce-ea14-c0cc-3541ace7c6a4
 resourcetype: Document
 title: 6.041SC Probabilistic Systems Analysis, Recitation 19 Solutions
 uid: 6b22271d-ff4c-461b-1d4b-c21d90486974

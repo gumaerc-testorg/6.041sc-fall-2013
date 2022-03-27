@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Lecture 23 Classical Statistical Inference - I
 parent_type: CourseSection
+parent_uid: eadd11a6-d653-17c5-f7d8-eae998cdc5e6
 resourcetype: Image
 title: Lecture_23.jpg
 uid: e4c96912-fece-fc98-92f9-569fdd1a68c9

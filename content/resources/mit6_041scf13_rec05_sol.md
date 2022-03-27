@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 5: Discrete Random Variables; Probability Mass Functions; Expectations'
 parent_type: CourseSection
+parent_uid: c23bebfa-7b15-d4af-7f83-d7f19b96837b
 resourcetype: Document
 title: 6.041SC Probabilistic Systems Analysis, Recitation 5 Solutions
 uid: 5de53101-8ac3-6835-acc8-3ab06de2dbfa

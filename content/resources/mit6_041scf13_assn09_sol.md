@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 19: Weak Law of Large Numbers'
 parent_type: CourseSection
+parent_uid: a7292289-e3eb-1f87-59fe-7822a15409c3
 resourcetype: Document
 title: 6.046.041SC Probabilistic Systems Analysis, Problem Set 9 Solutions
 uid: 5e8536ab-2b8d-04f4-b6a9-4d4361a19ed0

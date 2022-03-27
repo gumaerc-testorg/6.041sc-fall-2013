@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 2: Conditioning and Bayes'' Rule'
 parent_type: CourseSection
+parent_uid: 13d8856f-c0bc-fa17-583d-d3dd142ca31a
 resourcetype: Document
 title: 6.041SC Probabilistic Systems Analysis, Recitation 2
 uid: 6f2a143e-2dab-0a50-606e-e78d1833b3bc

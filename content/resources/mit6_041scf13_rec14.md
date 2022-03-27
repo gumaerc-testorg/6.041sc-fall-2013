@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 13: Bernoulli Process'
 parent_type: CourseSection
+parent_uid: c2de91c2-c31e-3e16-f00c-bc8087ae8b53
 resourcetype: Document
 title: 6.041SC Probabilistic Systems Analysis, Recitation 14
 uid: 32f5253f-318b-2de3-f5cd-d121de8dc59f

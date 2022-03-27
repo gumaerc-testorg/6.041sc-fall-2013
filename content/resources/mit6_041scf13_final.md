@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Final Exam
 parent_type: CourseSection
+parent_uid: fc5aa2e6-faa1-b7bf-7cc5-be22b6e4d8e0
 resourcetype: Document
 title: 6.041SC Fall 2010 final exam
 uid: f8f6e35a-64a9-1e44-928b-c8da702a0b65

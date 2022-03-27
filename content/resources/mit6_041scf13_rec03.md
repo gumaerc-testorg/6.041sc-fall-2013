@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 3: Independence'
 parent_type: CourseSection
+parent_uid: 88ec4f7f-5a26-d2a6-d53a-cbe75f7f7929
 resourcetype: Document
 title: 6.041SC Probabilistic Systems Analysis, Recitation 3
 uid: 7c24a4d3-18ff-9960-8ad1-7fff8c1024fc

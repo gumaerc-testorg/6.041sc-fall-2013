@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Lecture 22: Bayesian Statistical Inference - II'
 parent_type: CourseSection
+parent_uid: 38d8f7e6-57b0-d5c7-d135-07f467ed742b
 resourcetype: Image
 title: Lecture_22.jpg
 uid: 40437971-8320-a6a9-7c70-30e90c5df882

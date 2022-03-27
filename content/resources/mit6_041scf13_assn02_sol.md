@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 3: Independence'
 parent_type: CourseSection
+parent_uid: 88ec4f7f-5a26-d2a6-d53a-cbe75f7f7929
 resourcetype: Document
 title: 6.041SC Probabilistic Systems Analysis, Problem Set 2 Solutions
 uid: 01954b71-c531-1eee-bc04-94b75b2b15cf

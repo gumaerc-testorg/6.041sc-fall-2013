@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 9: Multiple Continuous Random Variables'
 parent_type: CourseSection
+parent_uid: a18c5ed7-4174-bfa2-8380-13a303933305
 resourcetype: Document
 title: 6.041SC Probabilistic Systems Analysis, Recitation 9
 uid: f2478b89-2157-475f-5f2d-838ee2db27a5

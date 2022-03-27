@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 4: Counting'
 parent_type: CourseSection
+parent_uid: 108d48da-58fe-98e5-ce62-e6b1df65eefa
 resourcetype: Document
 title: 6.041SC Probabilistic Systems Analysis, Tutorial 2 Solutions
 uid: 3445b1b8-f88b-5f5d-44b3-c38fee7e51db

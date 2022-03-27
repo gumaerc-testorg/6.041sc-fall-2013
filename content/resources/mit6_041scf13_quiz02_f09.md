@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Quiz 2
 parent_type: CourseSection
+parent_uid: 6fa0388f-081f-b91b-7c60-7bf0b0f6197d
 resourcetype: Document
 title: 6.041SC Fall 2009 quiz 2
 uid: 84cea77f-c738-2936-1e91-a7c2df7bf9b3

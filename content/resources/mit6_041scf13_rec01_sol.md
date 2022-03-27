@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 1: Probability Models and Axioms'
 parent_type: CourseSection
+parent_uid: b7578d11-fa1c-dee6-7b78-56ce34e8db48
 resourcetype: Document
 title: 6.041SC Probabilistic Systems Analysis, Recitation 1 Solutions
 uid: 8b80a2dd-f39c-22aa-8654-98a7c11b16ba

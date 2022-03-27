@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Quiz 1
 parent_type: CourseSection
+parent_uid: 7e3927aa-b91f-0313-0647-5e1885bc367e
 resourcetype: Document
 title: 6.041SC Spring 2009 quiz 1 solutions
 uid: ce9cf192-1235-ff10-5c2f-08ba70ccd487

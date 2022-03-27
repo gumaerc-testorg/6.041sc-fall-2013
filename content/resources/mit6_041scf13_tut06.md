@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 11: Derived Distributions; Convolution; Covariance and Correlation'
 parent_type: CourseSection
+parent_uid: 4359e52b-be89-7809-e0a4-c64ed6ae4af7
 resourcetype: Document
 title: 6.041SC Probabilistic Systems Analysis, Tutorial 6
 uid: 04213fc8-9c68-951e-a016-41479e257646

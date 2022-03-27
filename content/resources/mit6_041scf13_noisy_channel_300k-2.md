@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Unit I: Probability Models And Discrete Random Variables '
 parent_type: CourseSection
+parent_uid: 0bc3541c-d753-28f5-062b-51cb6d40538d
 resourcetype: Document
 title: "6.041SC Probabilistic Systems Analysis and Applied Probability, Fall 2013Transcript\
   \ \u2013 Recitation: Communication over a Noisy Channel"

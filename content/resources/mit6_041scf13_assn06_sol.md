@@ -8,6 +8,7 @@ ocw_type: OCWFile
 parent_title: 'Lecture 12: Iterated Expectations; Sum of a Random Number of Random
   Variables'
 parent_type: CourseSection
+parent_uid: d2fb21e5-831b-05e6-e0e1-5720b8f29dba
 resourcetype: Document
 title: 6.041SC Probabilistic Systems Analysis, Problem Set 6 Solutions
 uid: 4cdc614a-5dac-9b4b-6c1c-227ae92b3ffc

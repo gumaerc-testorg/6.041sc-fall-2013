@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Meet The Team
 parent_type: CourseSection
+parent_uid: bf5c1b3c-4dc7-5e91-1daf-783f9a8a6f83
 resourcetype: Image
 title: K_Szeto
 uid: 8e740886-f7ea-79dd-d370-97b1f8fd7a8d

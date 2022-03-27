@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 14: Poisson Process - I'
 parent_type: CourseSection
+parent_uid: 8e470ec3-a395-bf84-a620-8d352722d79f
 resourcetype: Document
 title: 6.041SC Probabilistic Systems Analysis, Recitation 15
 uid: fbbf6de5-24ad-21b7-3663-4d42bb02bfa7

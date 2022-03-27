@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 7: Multiple Discrete Random Variables'
 parent_type: CourseSection
+parent_uid: 06f2cd37-cd92-3c66-ddf2-8ccade9e6a7e
 resourcetype: Document
 title: 6.041SC Probabilistic Systems Analysis, Recitation 7 Solutions
 uid: f652dd20-ad9d-c6e2-508a-71ec8bf228ab

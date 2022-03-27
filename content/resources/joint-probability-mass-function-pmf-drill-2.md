@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Joint Probability Mass Function (PMF) Drill 2
 uid: 2e3158a1-c5cc-95eb-14de-f9a10c126ac7
 video_files:

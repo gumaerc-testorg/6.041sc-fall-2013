@@ -12,6 +12,7 @@ ocw_type: OCWImage
 parent_title: 'Lecture 12: Iterated Expectations; Sum of a Random Number of Random
   Variables'
 parent_type: CourseSection
+parent_uid: d2fb21e5-831b-05e6-e0e1-5720b8f29dba
 resourcetype: Image
 title: Lecture_12.jpg
 uid: 2d7a9bf9-62c1-c285-8398-9772b4195ca7

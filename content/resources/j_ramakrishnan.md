@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Meet The Team
 parent_type: CourseSection
+parent_uid: bf5c1b3c-4dc7-5e91-1daf-783f9a8a6f83
 resourcetype: Image
 title: J_Ramakrishnan
 uid: 21c3764a-1496-6a2a-1358-60e8375d9f7f

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Lecture 7: Multiple Discrete Random Variables'
 parent_type: CourseSection
+parent_uid: 06f2cd37-cd92-3c66-ddf2-8ccade9e6a7e
 resourcetype: Image
 title: Lecture_7.jpg
 uid: 2afb7ee0-2826-629c-756a-803e8ec6a2dc

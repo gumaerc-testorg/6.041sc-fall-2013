@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Lecture 2: Conditioning and Bayes'' Rule'
 parent_type: CourseSection
+parent_uid: 13d8856f-c0bc-fa17-583d-d3dd142ca31a
 resourcetype: Image
 title: Lecture_2.jpg
 uid: e30fd659-59f9-c6ef-ad9c-ece1135aeb05

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Meet The Team
 parent_type: CourseSection
+parent_uid: bf5c1b3c-4dc7-5e91-1daf-783f9a8a6f83
 resourcetype: Image
 title: Q_He
 uid: c4d262b3-e697-ee78-1dce-92be02e4d254

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Lecture 13: Bernoulli Process'
 parent_type: CourseSection
+parent_uid: c2de91c2-c31e-3e16-f00c-bc8087ae8b53
 resourcetype: Image
 title: Lecture_13.jpg
 uid: bcf17d2f-c994-989e-f1a6-2839e988cdea

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 22: Bayesian Statistical Inference - II'
 parent_type: CourseSection
+parent_uid: 38d8f7e6-57b0-d5c7-d135-07f467ed742b
 resourcetype: Document
 title: 6.041SC Probabilistic Systems Analysis, Problem Set 10 Solutions
 uid: 3eb4d737-fb5d-6ae7-5bbb-f6c29cf52ebd

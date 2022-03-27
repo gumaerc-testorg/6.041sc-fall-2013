@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Quiz 2
 parent_type: CourseSection
+parent_uid: 6fa0388f-081f-b91b-7c60-7bf0b0f6197d
 resourcetype: Image
 title: Quiz_2.jpg
 uid: efe3db88-65cf-2166-cc77-b82d633179a7

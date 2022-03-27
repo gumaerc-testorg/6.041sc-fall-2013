@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Quiz 2
 parent_type: CourseSection
+parent_uid: 6fa0388f-081f-b91b-7c60-7bf0b0f6197d
 resourcetype: Document
 title: 6.041SC Quiz 2 review slides
 uid: 9a8b47ab-a47d-109d-8a68-115aad3282bb

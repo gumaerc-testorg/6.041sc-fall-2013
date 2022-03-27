@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Lecture 3: Independence'
 parent_type: CourseSection
+parent_uid: 88ec4f7f-5a26-d2a6-d53a-cbe75f7f7929
 resourcetype: Image
 title: Lecture3.jpg
 uid: 9cd47a01-d14e-a6fb-29b2-14f62078292f

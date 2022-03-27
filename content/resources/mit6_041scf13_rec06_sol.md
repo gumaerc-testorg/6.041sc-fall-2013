@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 6: Discrete Random Variable Examples; Joint PMFs'
 parent_type: CourseSection
+parent_uid: aedead42-950e-896b-b568-a4402ab05dbd
 resourcetype: Document
 title: 6.041SC Probabilistic Systems Analysis, Recitation 6 Solutions
 uid: f88c8cde-fe2a-b4e8-18dc-29b231aec685

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Lecture 16: Markov Chains - I'
 parent_type: CourseSection
+parent_uid: 8f3c76f8-cf51-30bb-1aea-bcdc51a3cfa3
 resourcetype: Image
 title: Lecture_16.jpg
 uid: de1d3cd7-b9ea-6e27-1478-cda527a3a164

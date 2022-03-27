@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Quiz 1
 parent_type: CourseSection
+parent_uid: 7e3927aa-b91f-0313-0647-5e1885bc367e
 resourcetype: Document
 title: 6.041SC Probabilistic Systems Analysis, Recitation 10
 uid: 425d7741-c996-aa8b-265c-b19e251e5065

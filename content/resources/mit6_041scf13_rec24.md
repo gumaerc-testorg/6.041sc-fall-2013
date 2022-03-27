@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Unit IV: Laws Of Large Numbers And Inference'
 parent_type: CourseSection
+parent_uid: fcbf3273-e11e-bbee-8eef-a7788388f87a
 resourcetype: Document
 title: 6.041SC Probabilistic Systems Analysis, Recitation 24
 uid: f1ac3241-b21f-b593-1749-9672c9f4197e

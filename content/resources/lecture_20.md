@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Lecture 20: Central Limit Theorem'
 parent_type: CourseSection
+parent_uid: 7130cfbd-1446-2844-68da-e83bdd28e426
 resourcetype: Image
 title: Lecture_20.jpg
 uid: 8fc917bb-2a3e-da2d-3cfb-f376d9e2ea47

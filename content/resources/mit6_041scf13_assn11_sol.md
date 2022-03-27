@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 25: Classical Inference - III'
 parent_type: CourseSection
+parent_uid: 954792d8-6c4c-0407-b8df-99d7c887dade
 resourcetype: Document
 title: 6.041SC Probabilistic Systems Analysis, Problem Set 11 Solutions
 uid: 7fcc2325-155e-a6be-487a-0b2e556e9848

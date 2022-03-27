@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Final Exam
 parent_type: CourseSection
+parent_uid: fc5aa2e6-faa1-b7bf-7cc5-be22b6e4d8e0
 resourcetype: Document
 title: 6.041SC Spring 2009 final exam solutions
 uid: 1b04056a-a8ce-6d76-17ca-0dafe875511e

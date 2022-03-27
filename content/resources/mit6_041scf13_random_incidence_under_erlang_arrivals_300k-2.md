@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Unit III: Random Processes'
 parent_type: CourseSection
+parent_uid: a407050c-bd3a-de7c-ddf4-8a582ba1ed50
 resourcetype: Document
 title: "6.041SC Probabilistic Systems Analysis and Applied Probability, Fall 2013Transcript\
   \ \u2013 Recitation 1: Random Incidence Under Erlang Arrivals"
