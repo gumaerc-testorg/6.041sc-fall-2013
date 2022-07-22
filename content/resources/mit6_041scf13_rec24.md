@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/f1ac3241b21fb59317499672c9f4197e_MIT6_041SCF13_rec24.pdf
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/f1ac3241b21fb59317499672c9f4197e_MIT6_041SCF13_rec24.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Unit IV: Laws Of Large Numbers And Inference'
 parent_type: CourseSection

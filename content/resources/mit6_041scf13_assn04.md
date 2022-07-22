@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/4e3784a4552074d32c78e349078789ba_MIT6_041SCF13_assn04.pdf
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/4e3784a4552074d32c78e349078789ba_MIT6_041SCF13_assn04.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Lecture 5: Discrete Random Variables; Probability Mass Functions; Expectations'
 parent_type: CourseSection

@@ -5,8 +5,10 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Counting (PDF)](resources/mit6_041scf13_l04)'
+optional_text: '[Counting (PDF)](/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/resources/mit6_041scf13_l04)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +29,4 @@ video_metadata:
 **Description**: In this lecture, the professor discussed principles of counting, permutations, combinations, partitions, and binomial probabilities.
 
 **Instructor**: John Tsitsiklis
+

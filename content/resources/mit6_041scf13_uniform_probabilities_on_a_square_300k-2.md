@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/010f6ba1b2fc846f02eaa826d3cacf42_MIT6_041SCF13_Uniform_Probabilities_on_a_Square_300k.pdf
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/010f6ba1b2fc846f02eaa826d3cacf42_MIT6_041SCF13_Uniform_Probabilities_on_a_Square_300k.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Unit I: Probability Models And Discrete Random Variables '
 parent_type: CourseSection

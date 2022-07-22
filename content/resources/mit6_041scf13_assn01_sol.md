@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/eb6d1a9cfd04480f9cb05c0e351c651d_MIT6_041SCF13_assn01_sol.pdf
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/eb6d1a9cfd04480f9cb05c0e351c651d_MIT6_041SCF13_assn01_sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Lecture 1: Probability Models and Axioms'
 parent_type: CourseSection

@@ -5,8 +5,10 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Bernoulli Process (PDF)](resources/mit6_041scf13_l13)'
+optional_text: '[Bernoulli Process (PDF)](/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/resources/mit6_041scf13_l13)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +29,4 @@ video_metadata:
 **Description**: In this lecture, the professor discussed Bernoulli process, random processes, basic properties of Bernoulli process, distribution of interarrival times, the time of the kth success, merging and splitting.
 
 **Instructor**: John Tsitsiklis
+

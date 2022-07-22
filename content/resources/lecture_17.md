@@ -1,13 +1,14 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/bd8d35f186aa463755bdb7a7f51c7fc8_Lecture_17.jpg
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/bd8d35f186aa463755bdb7a7f51c7fc8_Lecture_17.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Lecture 17: Markov Chains - II'
 parent_type: CourseSection

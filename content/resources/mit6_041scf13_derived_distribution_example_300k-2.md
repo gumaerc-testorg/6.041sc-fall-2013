@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/c72fbed5c3a11b638468c2f90876fb9d_MIT6_041SCF13_Derived_Distribution_Example_300k.pdf
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/c72fbed5c3a11b638468c2f90876fb9d_MIT6_041SCF13_Derived_Distribution_Example_300k.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Unit II: General Random Variables'
 parent_type: CourseSection

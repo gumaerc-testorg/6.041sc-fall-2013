@@ -4,8 +4,10 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Classical Inference - II (PDF)](resources/mit6_041scf13_l24)'
+optional_text: '[Classical Inference - II (PDF)](/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/resources/mit6_041scf13_l24)'
 parent_title: Resource Index
 parent_type: CourseSection
 related_resources_text: ''
@@ -26,3 +28,4 @@ video_metadata:
 **Description**: In this lecture, the professor discussed classical inference, Linear regression, and binary hypothesis testing.
 
 **Instructor**: John Tsitsiklis
+

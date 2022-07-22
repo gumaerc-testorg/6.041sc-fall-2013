@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/8e0543b9dfbb99a5e1bbe22c6aebea68_MIT6_041SCF13_The_Sum_of_Discrete_and_Continuous_R_V_S_300k.pdf
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/8e0543b9dfbb99a5e1bbe22c6aebea68_MIT6_041SCF13_The_Sum_of_Discrete_and_Continuous_R_V_S_300k.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Unit II: General Random Variables'
 parent_type: CourseSection

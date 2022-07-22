@@ -1,13 +1,14 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/2d7a9bf962c1c28583989772b4195ca7_Lecture_12.jpg
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/2d7a9bf962c1c28583989772b4195ca7_Lecture_12.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Lecture 12: Iterated Expectations; Sum of a Random Number of Random
   Variables'

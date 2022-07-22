@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/40ee73dc40821401cfb9addc71c52567_MIT6_041SCF13_No_16_Ch1_FlipCoinRandomNumber_300k.pdf
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/40ee73dc40821401cfb9addc71c52567_MIT6_041SCF13_No_16_Ch1_FlipCoinRandomNumber_300k.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Unit I: Probability Models And Discrete Random Variables '
 parent_type: CourseSection

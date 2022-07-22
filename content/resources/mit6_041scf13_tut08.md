@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/15ce1578da9bc9b0ea8fd9a7a990e57b_MIT6_041SCF13_tut08.pdf
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/15ce1578da9bc9b0ea8fd9a7a990e57b_MIT6_041SCF13_tut08.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Lecture 15: Poisson Process - II'
 parent_type: CourseSection

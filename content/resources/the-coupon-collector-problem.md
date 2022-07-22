@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 6: Discrete Random Variable Examples; Joint PMFs'
@@ -26,3 +27,4 @@ video_metadata:
 **Description**:
 
 **Instructor**: Kuang Xu
+
