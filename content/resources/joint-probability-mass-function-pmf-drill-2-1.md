@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Resource Index
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Joint Probability Mass Function (PMF) Drill 2
 uid: b526bb8b-9747-c7ac-d497-d25bfdb03181
 video_files:
@@ -17,3 +28,4 @@ video_metadata:
 **Description**:
 
 **Instructor**: Katie Szeto
+

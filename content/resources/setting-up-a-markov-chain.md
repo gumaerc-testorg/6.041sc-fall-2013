@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Lecture 16: Markov Chains - I'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Setting Up a Markov Chain
 uid: 4c4425e3-9efd-59e5-c753-d7651d6ad017
 video_files:
@@ -17,3 +28,4 @@ video_metadata:
 **Description**:
 
 **Instructor**: Jimmy Li
+

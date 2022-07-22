@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: Lecture Slides
+optional_text: '[Discrete Random Variables; Probability Mass Functions; Expectations
+  (PDF)](/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/resources/mit6_041scf13_l05)'
+parent_title: Resource Index
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 5: Discrete Random Variables Probability Mass Functions Expectations'
 uid: 0c8da735-14b2-90ab-a903-a364d96d2d8f
 video_files:
@@ -17,3 +29,4 @@ video_metadata:
 **Description**: In this lecture, the professor discussed random variables, probability mass function, expectation, and variance.
 
 **Instructor**: John Tsitsiklis
+

@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Lecture 19: Weak Law of Large Numbers'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Convergence in Probability and in the Mean Part 1
 uid: cc8bb993-3c28-04b9-9e7e-8d9e069ba9df
 video_files:
@@ -17,3 +28,4 @@ video_metadata:
 **Description**:
 
 **Instructor**: Kuang Xu
+

@@ -1,8 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/3a91e30926b150fa7e785ac55018a812_MIT6_041SCF13_Markov_Chain_Practice_231_300k.pdf
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/3a91e30926b150fa7e785ac55018a812_MIT6_041SCF13_Markov_Chain_Practice_231_300k.pdf
 file_type: application/pdf
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: OCWFile
 resourcetype: Document
 title: "6.041SC Probabilistic Systems Analysis and Applied Probability, Fall 2013Transcript\
   \ \u2013 Recitation 1: Markov Chain Practice 1"

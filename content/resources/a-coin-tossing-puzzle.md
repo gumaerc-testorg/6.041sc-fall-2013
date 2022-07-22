@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Lecture 2: Conditioning and Bayes'' Rule'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: A Coin Tossing Puzzle
 uid: c4833c36-d1a7-6550-2c32-28a8a4be2346
 video_files:
@@ -17,3 +28,4 @@ video_metadata:
 **Description**:
 
 **Instructor**: Kuang Xu
+

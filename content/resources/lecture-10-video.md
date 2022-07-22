@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Lecture 10: Continuous Bayes'' Rule; Derived Distributions'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 10: Continuous Bayes'' Rule; Derived Distributions Video'
 uid: d8b908b0-ef49-0951-f021-d4567a953b4b
 video_files:

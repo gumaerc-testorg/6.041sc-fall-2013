@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit IV: Laws Of Large Numbers And Inference'
+parent_type: CourseSection
 parent_uid: fcbf3273-e11e-bbee-8eef-a7788388f87a
 title: Lecture 23 Classical Statistical Inference - I
 uid: eadd11a6-d653-17c5-f7d8-eae998cdc5e6

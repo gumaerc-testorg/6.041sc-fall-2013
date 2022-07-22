@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit I: Probability Models And Discrete Random Variables '
+parent_type: CourseSection
 parent_uid: 0bc3541c-d753-28f5-062b-51cb6d40538d
 title: 'Lecture 7: Multiple Discrete Random Variables'
 uid: 06f2cd37-cd92-3c66-ddf2-8ccade9e6a7e

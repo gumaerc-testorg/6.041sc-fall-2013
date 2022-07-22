@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Resource Index
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Using the Central Limit Theorem
 uid: 3ebf99c2-6e3d-2d31-60fd-b8aa8d819d85
 video_files:
@@ -17,3 +28,4 @@ video_metadata:
 **Description**:
 
 **Instructor**: Jagdish Ramakrishnan
+

@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: Lecture Slides
+optional_text: '[Central Limit Theorem (PDF)](/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/resources/mit6_041scf13_l20)'
+parent_title: Resource Index
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 20: Central Limit Theorem'
 uid: d0b7e492-e939-9dea-2ed5-db6ea0ac96a7
 video_files:
@@ -17,3 +28,4 @@ video_metadata:
 **Description**: In this lecture, the professor discussed central limit theorem, Normal approximation, 1/2 correction for binomial approximation, and De Moivre–Laplace central limit theorem.
 
 **Instructor**: John Tsitsiklis
+

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit IV: Laws Of Large Numbers And Inference'
+parent_type: CourseSection
 parent_uid: fcbf3273-e11e-bbee-8eef-a7788388f87a
 title: 'Lecture 21: Bayesian Statistical Inference - I'
 uid: ae332133-ad68-021b-8c11-95c3e6b70d0d

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit II: General Random Variables'
 uid: 8918d70e-c9d0-1faa-137b-3d89da76fc89
 ---

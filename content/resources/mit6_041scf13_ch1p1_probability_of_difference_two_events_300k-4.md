@@ -1,8 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/f50a4e411c178be6a9a3c18d037787a9_MIT6_041SCF13_Ch1P1_Probability_of_Difference_Two_Events_300k.pdf
+file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/f50a4e411c178be6a9a3c18d037787a9_MIT6_041SCF13_Ch1P1_Probability_of_Difference_Two_Events_300k.pdf
 file_type: application/pdf
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: OCWFile
 resourcetype: Document
 title: "6.041SC Probabilistic Systems Analysis and Applied Probability, Fall 2013\
   \ Transcript \u2013 Recitation 1: The Probability of the Difference of Two Events"

@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Resource Index
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: The Probability of the Difference of Two Events
 uid: 05110a1f-07e9-d179-a3b0-260983d60975
 video_files:
@@ -17,3 +28,4 @@ video_metadata:
 **Description**: The Probability of the Difference of Two Events
 
 **Instructor**: Kuang Xu
+

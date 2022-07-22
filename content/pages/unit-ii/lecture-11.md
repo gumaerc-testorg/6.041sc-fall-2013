@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit II: General Random Variables'
+parent_type: CourseSection
 parent_uid: 8918d70e-c9d0-1faa-137b-3d89da76fc89
 title: 'Lecture 11: Derived Distributions; Convolution; Covariance and Correlation'
 uid: 4359e52b-be89-7809-e0a4-c64ed6ae4af7

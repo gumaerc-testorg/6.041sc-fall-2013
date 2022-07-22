@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit II: General Random Variables'
+parent_type: CourseSection
 parent_uid: 8918d70e-c9d0-1faa-137b-3d89da76fc89
 title: 'Lecture 9: Multiple Continuous Random Variables'
 uid: a18c5ed7-4174-bfa2-8380-13a303933305
