@@ -18,9 +18,9 @@ title: 'Lecture 1: Probability Models and Axioms1'
 uid: 22d0cb63-5f7f-bcca-4826-0f30f056c24f
 video_files:
   archive_url: http://www.archive.org/download/MIT6.041F10/MIT6_041F11_lec01_300k.mp4
-  video_captions_file: null
+  video_captions_file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/j9WZyLZCBzs_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/j9WZyLZCBzs/default.jpg
-  video_transcript_file: null
+  video_transcript_file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/j9WZyLZCBzs_transcript.pdf
 video_metadata:
   youtube_id: j9WZyLZCBzs
 ---
