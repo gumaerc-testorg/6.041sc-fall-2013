@@ -19,9 +19,9 @@ title: 'Lecture 12: Iterated Expectations Sum of a Random Number of Random varia
 uid: 904f21eb-f4b5-3d70-9a8c-73e0f0492902
 video_files:
   archive_url: http://www.archive.org/download/MIT6.041F10/MIT6_041F11_lec12_300k.mp4
-  video_captions_file: null
+  video_captions_file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/P7a4bjE6Crk_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/P7a4bjE6Crk/default.jpg
-  video_transcript_file: null
+  video_transcript_file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/P7a4bjE6Crk_transcript.pdf
 video_metadata:
   youtube_id: P7a4bjE6Crk
 ---

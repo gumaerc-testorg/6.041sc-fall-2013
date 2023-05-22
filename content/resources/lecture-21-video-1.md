@@ -19,9 +19,9 @@ title: 'Lecture 21: Bayesian Statistical Inference - I'
 uid: b757301c-1506-cf8a-7cb5-5b97f2657296
 video_files:
   archive_url: http://www.archive.org/download/MIT6.041F10/MIT6_041F11_lec21_300k.mp4
-  video_captions_file: null
+  video_captions_file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/1jDBM9UM9xk_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/1jDBM9UM9xk/default.jpg
-  video_transcript_file: null
+  video_transcript_file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/1jDBM9UM9xk_transcript.pdf
 video_metadata:
   youtube_id: 1jDBM9UM9xk
 ---
