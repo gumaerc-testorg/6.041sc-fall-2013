@@ -18,9 +18,9 @@ title: 'Lecture 3: Independence'
 uid: 5ae69cd7-fe41-9814-fff0-4338d042aa1e
 video_files:
   archive_url: http://www.archive.org/download/MIT6.041F10/MIT6_041F11_lec03_300k.mp4
-  video_captions_file: null
+  video_captions_file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/19Ql_Q3l0GA_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/19Ql_Q3l0GA/default.jpg
-  video_transcript_file: null
+  video_transcript_file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/19Ql_Q3l0GA_transcript.pdf
 video_metadata:
   youtube_id: 19Ql_Q3l0GA
 ---
