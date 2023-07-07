@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/75d51f44850cbf925903c960365e656f_MIT6_041SCF13_Random_Incidence_Under_Erlang_Arrivals_300k.pdf
+file_size: 536419
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/e6066bf65bdea5898fec5a63f5a3fc30_MIT6_041SCF13_Joint_PMF_Drill2_300k.pdf
+file_size: 542908
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

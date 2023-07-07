@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/7141318371a206c763a109977a2f0afe_MIT6_041SCF13_Widgets_and_Crates_300k.pdf
+file_size: 575501
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

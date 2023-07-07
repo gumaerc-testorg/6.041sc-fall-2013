@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/9d3ea8980d630d6d85467f49939c56c6_MIT6_041SCF13_Rooks_on_a_Chessboard_300k.pdf
+file_size: 545422
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

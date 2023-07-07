@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/75280e4f0501e91cc861b8961952f4e0_MIT6_041SCF13_Uniform_Probabilities_on_a_Square_300k.pdf
+file_size: 581926
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

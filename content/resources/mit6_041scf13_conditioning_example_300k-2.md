@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/9bdd70f141c52e0fb0e27058552b1073_MIT6_041SCF13_Conditioning_Example_300k.pdf
+file_size: 587290
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

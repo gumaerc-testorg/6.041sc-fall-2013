@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/c9b39fd1fb9026149b6eb1fab5ce0e9c_MIT6_041SCF13_Using_the_CLT_300k.pdf
+file_size: 558902
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

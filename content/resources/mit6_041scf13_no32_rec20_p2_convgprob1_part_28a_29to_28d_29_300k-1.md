@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/ca3067aafbb6a4171ceac9303728a64d_MIT6_041SCF13_No32_Rec20_P2_ConvgProb1_Part_28a_29to_28d_29_300k.pdf
+file_size: 615536
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

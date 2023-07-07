@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/81a23e85ca1d55b401cf76be362681b5_MIT6_041SCF13_Ch1P1_Probability_of_Difference_Two_Events_300k.pdf
+file_size: 533216
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
