@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/1bfd5ab6b58f3798c99f53c572a283fe_MIT6_041SCF13_Edit2_Take2_No13_Ch1_HypergeometicProbabilities.pdf
+file_size: 531948
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/7883f7eb2d7808ec319cb3e0ff8e42c3_MIT6_041SCF13_Geniuses_and_Chocolates_300k.pdf
+file_size: 535844
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

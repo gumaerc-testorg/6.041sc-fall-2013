@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/674d3e2f42b50ea4683e623e7e2319df_MIT6_041SCF13_Random_Number_of_Coin_Flipstake_300k.pdf
+file_size: 543793
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
