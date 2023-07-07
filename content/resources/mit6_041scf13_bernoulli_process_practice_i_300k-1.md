@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/fddc8f4bfbccb283073d048b5088fbce_MIT6_041SCF13_Bernoulli_Process_Practice_I_300k.pdf
+file_size: 531717
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

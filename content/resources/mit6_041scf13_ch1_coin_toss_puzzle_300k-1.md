@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/1f09d543de9086f45dd71a55fa05e4d9_MIT6_041SCF13_Ch1_Coin_Toss_Puzzle_300k.pdf
+file_size: 534218
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding quiz 1.
 file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/f168b1a65cbabf8a6c66bd00058745df_MIT6_041SCF13_quiz01.pdf
+file_size: 326870
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

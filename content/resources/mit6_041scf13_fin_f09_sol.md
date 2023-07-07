@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding final exam solutions.
 file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/18c78ae1f1a76986cc1e17242eab6abd_MIT6_041SCF13_fin_f09_sol.pdf
+file_size: 632728
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
