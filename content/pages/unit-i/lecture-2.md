@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides materials for a lecture on conditioning and Bayes'
+  rule. It includes the list of lecture topics, lecture video, lecture slides, readings,
+  recitation problems, and recitation help videos.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit I: Probability Models And Discrete Random Variables '
@@ -9,7 +12,7 @@ title: 'Lecture 2: Conditioning and Bayes'' Rule'
 uid: 13d8856f-c0bc-fa17-583d-d3dd142ca31a
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-i/lecture-1) | [Next]({{< baseurl >}}/pages/unit-i/lecture-3) »
+« {{% resource_link b7578d11-fa1c-dee6-7b78-56ce34e8db48 "Previous" %}} | {{% resource_link 88ec4f7f-5a26-d2a6-d53a-cbe75f7f7929 "Next" %}} »
 
 Lecture Topics
 --------------
@@ -17,7 +20,7 @@ Lecture Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Lecture_2.jpg]({{< resource_file e30fd659-59f9-c6ef-ad9c-ece1135aeb05 >}})
+{{< resource e30fd659-59f9-c6ef-ad9c-ece1135aeb05 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -38,8 +41,8 @@ Lecture Topics
 Lecture Activities
 ------------------
 
-*   Watch the [Lecture 2: Conditioning and Bayes' Rule Video]({{< baseurl >}}/resources/lecture-2-video) by Prof. Tsitsiklis (00:51:11)
-*   Review the [Lecture 2: Conditioning and Bayes' Rule Slides (PDF)]({{< baseurl >}}/resources/mit6_041scf13_l02)
+*   Watch the {{% resource_link 83d68257-9bb9-e0c5-7ebf-be685f61f22b "Lecture 2: Conditioning and Bayes' Rule Video" %}} by Prof. Tsitsiklis (00:51:11)
+*   Review the {{% resource_link a1462fa2-3de9-d08c-0dfd-233a57278fed "Lecture 2: Conditioning and Bayes' Rule Slides (PDF)" %}}
 *   Read Sections 1.3–1.4 in the textbook
 
 Recitation Problems and Recitation Help Videos
@@ -47,8 +50,8 @@ Recitation Problems and Recitation Help Videos
 
 Review the recitation problems in the PDF file below and try to solve them on your own. Three of the problems have an accompanying video where a teaching assistant solves the same problem.
 
-*   [Recitation 2 Problems (PDF)]({{< baseurl >}}/resources/mit6_041scf13_rec02)
-*   [Recitation 2 Solutions (PDF)]({{< baseurl >}}/resources/mit6_041scf13_rec02_sol)
+*   {{% resource_link 6f2a143e-2dab-0a50-606e-e78d1833b3bc "Recitation 2 Problems (PDF)" %}}
+*   {{% resource_link 6ecc63e2-04ea-ced7-d61d-d14c89d36f44 "Recitation 2 Solutions (PDF)" %}}
 
 ### Recitation Help Videos
 
@@ -73,7 +76,7 @@ PROBLEM SOLVED BY
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[A Coin Tossing Puzzle]({{< baseurl >}}/resources/a-coin-tossing-puzzle)
+{{% resource_link c4833c36-d1a7-6550-2c32-28a8a4be2346 "A Coin Tossing Puzzle" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Kuang Xu
@@ -85,7 +88,7 @@ Kuang Xu
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Conditional Probability Example]({{< baseurl >}}/resources/conditional-probability-example)
+{{% resource_link 2a90c5e6-7e75-431b-9401-5f58c566a7c2 "Conditional Probability Example" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Katie Szeto
@@ -97,7 +100,7 @@ Katie Szeto
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[The Monty Hall Problem]({{< baseurl >}}/resources/the-monty-hall-problem)
+{{% resource_link a861411c-4181-fed7-13a2-42982f2df55c "The Monty Hall Problem" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Jimmy Li
@@ -107,4 +110,4 @@ Jimmy Li
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/unit-i/lecture-1) | [Next]({{< baseurl >}}/pages/unit-i/lecture-3) »
+« {{% resource_link b7578d11-fa1c-dee6-7b78-56ce34e8db48 "Previous" %}} | {{% resource_link 88ec4f7f-5a26-d2a6-d53a-cbe75f7f7929 "Next" %}} »

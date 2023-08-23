@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides materials for a lecture on multiple continuous
+  random variables. It includes the list of lecture topics, lecture video, lecture
+  slides, readings, recitation problems, recitation help videos, tutorials with solutions
+  and help videos, and a problem set with solutions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit II: General Random Variables'
@@ -9,7 +13,7 @@ title: 'Lecture 9: Multiple Continuous Random Variables'
 uid: a18c5ed7-4174-bfa2-8380-13a303933305
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-ii/lecture-8) | [Next]({{< baseurl >}}/pages/unit-ii/lecture-10) »
+« {{% resource_link 140e2988-c266-0068-4724-1f9148d8d516 "Previous" %}} | {{% resource_link 5d1de23e-b7c4-9423-7bfa-ababd1266729 "Next" %}} »
 
 Lecture Topics
 --------------
@@ -17,7 +21,7 @@ Lecture Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Lecture_9.jpg]({{< resource_file 5a99ef3a-e4d4-26d2-269e-95ac6ffad441 >}})
+{{< resource 5a99ef3a-e4d4-26d2-269e-95ac6ffad441 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -40,8 +44,8 @@ Lecture Topics
 Lecture Activities
 ------------------
 
-*   Watch the [Lecture 9: Multiple Continuous Random Variables Video]({{< baseurl >}}/resources/lecture-9-video) by Prof. Tsitsiklis (00:50:51)
-*   Review the [Lecture 9: Multiple Continuous Random Variables Slides (PDF)]({{< baseurl >}}/resources/mit6_041scf13_l09)
+*   Watch the {{% resource_link ed14b8ae-7fd5-0a90-eb78-1e4e6ae2204d "Lecture 9: Multiple Continuous Random Variables Video" %}} by Prof. Tsitsiklis (00:50:51)
+*   Review the {{% resource_link 0e64d4c4-5353-c6ed-659a-2f5969407843 "Lecture 9: Multiple Continuous Random Variables Slides (PDF)" %}}
 *   Read Sections 3.4–3.5 in the textbook
 
 Recitation Problems and Recitation Help Videos
@@ -49,8 +53,8 @@ Recitation Problems and Recitation Help Videos
 
 Review the recitation problems in the PDF file below and try to solve them on your own. Two of the problems have an accompanying video where a teaching assistant solves the same problem.
 
-*   [Recitation 9 Problems (PDF)]({{< baseurl >}}/resources/mit6_041scf13_rec09)
-*   [Recitation 9 Solutions (PDF)]({{< baseurl >}}/resources/mit6_041scf13_rec09_sol)
+*   {{% resource_link f2478b89-2157-475f-5f2d-838ee2db27a5 "Recitation 9 Problems (PDF)" %}}
+*   {{% resource_link ae20ad32-9744-ae8e-8f0f-f9cc4d8944f0 "Recitation 9 Solutions (PDF)" %}}
 
 ### Recitation Help Videos
 
@@ -75,7 +79,7 @@ PROBLEM SOLVED BY
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Uniform Probabilities on a Triangle]({{< baseurl >}}/resources/uniform-probabilities-on-a-triangle)
+{{% resource_link 003f21de-d9cb-beff-abb8-0f9c4f6c5547 "Uniform Probabilities on a Triangle" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Jimmy Li
@@ -87,7 +91,7 @@ Jimmy Li
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Probability that Three Pieces Form a Triangle]({{< baseurl >}}/resources/probability-that-three-pieces-form-a-triangle)
+{{% resource_link 54b6ff9c-5520-8c12-8b2b-9cf8e6af3e5e "Probability that Three Pieces Form a Triangle" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Jimmy Li
@@ -102,8 +106,8 @@ Tutorial Problems and Tutorial Help Videos
 
 Review the tutorial problems in the PDF file below and try to solve them on your own. One of the problems has an accompanying video where a teaching assistant solves the same problem.
 
-*   [Tutorial 4 Problems (PDF)]({{< baseurl >}}/resources/mit6_041scf13_tut04-1) Do ONLY problems 2 and 3
-*   [Tutorial 4 Solutions (PDF)]({{< baseurl >}}/resources/mit6_041scf13_tut04_sol-1)
+*   {{% resource_link 1385ea6e-f123-69f8-bc00-4488916b2aa8 "Tutorial 4 Problems (PDF)" %}} Do ONLY problems 2 and 3
+*   {{% resource_link 6cf3ade6-5d1c-7f3d-1955-46e82231aa30 "Tutorial 4 Solutions (PDF)" %}}
 
 ### Tutorial Help Videos
 
@@ -128,7 +132,7 @@ PROBLEM SOLVED BY
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[The Absent Minded Professor]({{< baseurl >}}/resources/the-absent-minded-professor)
+{{% resource_link fccaf91f-cf68-8275-8c0a-bbd124839fe3 "The Absent Minded Professor" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Jimmy Li
@@ -143,7 +147,7 @@ Problem Set and Solutions
 
 Work the problems on your own and check your answers when you're done. Problem set 5 covers Lectures 8 and 9.
 
-*   [Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit6_041scf13_assn05)
-*   [Problem Set 5 Solutions (PDF)]({{< baseurl >}}/resources/mit6_041scf13_assn05_sol)
+*   {{% resource_link b5dad399-299e-6592-d628-be90214cb649 "Problem Set 5 (PDF)" %}}
+*   {{% resource_link 65274f6a-ba8c-a1fa-1a62-d106fcbba2a6 "Problem Set 5 Solutions (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-ii/lecture-8) | [Next]({{< baseurl >}}/pages/unit-ii/lecture-10) »
+« {{% resource_link 140e2988-c266-0068-4724-1f9148d8d516 "Previous" %}} | {{% resource_link 5d1de23e-b7c4-9423-7bfa-ababd1266729 "Next" %}} »
