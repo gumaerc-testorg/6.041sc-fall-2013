@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides an introduction to the course instructor and teaching
+  assistants.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Syllabus
@@ -9,7 +11,7 @@ title: Meet The Team
 uid: bf5c1b3c-4dc7-5e91-1daf-783f9a8a6f83
 ---
 
-« [Previous]({{< baseurl >}}/pages/syllabus) | [Next]({{< baseurl >}}/pages/unit-i) »
+« {{% resource_link 1b731b6f-4737-b89e-b0e3-58a64d24888a "Previous" %}} | {{% resource_link 0bc3541c-d753-28f5-062b-51cb6d40538d "Next" %}} »
 
 INSTRUCTOR
 ----------
@@ -20,7 +22,7 @@ John Tsitsiklis
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![J_Tsitsiklis.jpg]({{< resource_file 03d764a7-8439-9a00-4771-c269470981ad >}})
+{{< resource 03d764a7-8439-9a00-4771-c269470981ad >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -44,7 +46,7 @@ Qing He
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Q_He.jpg]({{< resource_file c4d262b3-e697-ee78-1dce-92be02e4d254 >}})
+{{< resource c4d262b3-e697-ee78-1dce-92be02e4d254 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -64,7 +66,7 @@ Jimmy Li
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![J_Li.jpg]({{< resource_file ce4c56d1-835a-998e-a1d4-45e80ed1a45c >}})
+{{< resource ce4c56d1-835a-998e-a1d4-45e80ed1a45c >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -84,7 +86,7 @@ Jagdish Ramakrishnan
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![J_Ramakrishnan.jpg]({{< resource_file 21c3764a-1496-6a2a-1358-60e8375d9f7f >}})
+{{< resource 21c3764a-1496-6a2a-1358-60e8375d9f7f >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -104,7 +106,7 @@ Katie Szeto
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![K_Szeto.jpg]({{< resource_file 8e740886-f7ea-79dd-d370-97b1f8fd7a8d >}})
+{{< resource 8e740886-f7ea-79dd-d370-97b1f8fd7a8d >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -124,7 +126,7 @@ Kuang Xu
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![K_Xu.jpg]({{< resource_file b70e8414-12da-b740-7669-d48a7b7fb95a >}})
+{{< resource b70e8414-12da-b740-7669-d48a7b7fb95a >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -138,4 +140,4 @@ Kuang Xu is a graduate student in the Department of Electrical Engineering & Com
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/syllabus) | [Next]({{< baseurl >}}/pages/unit-i) »
+« {{% resource_link 1b731b6f-4737-b89e-b0e3-58a64d24888a "Previous" %}} | {{% resource_link 0bc3541c-d753-28f5-062b-51cb6d40538d "Next" %}} »
