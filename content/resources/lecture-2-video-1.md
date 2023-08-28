@@ -3,7 +3,6 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
-file_size: '118074745'
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -20,9 +19,9 @@ title: 'Lecture 2: Conditioning and Bayes'' Rule2'
 uid: 28d85187-73af-198d-8a6d-2a15d8eb0dc9
 video_files:
   archive_url: http://www.archive.org/download/MIT6.041F10/MIT6_041F11_lec02_300k.mp4
-  video_captions_file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/TluTv5V0RmE_captions.webvtt
+  video_captions_file: null
   video_thumbnail_file: https://img.youtube.com/vi/TluTv5V0RmE/default.jpg
-  video_transcript_file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/TluTv5V0RmE_transcript.pdf
+  video_transcript_file: null
 video_metadata:
   youtube_id: TluTv5V0RmE
 ---
