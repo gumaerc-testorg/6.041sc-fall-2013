@@ -1,9 +1,15 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
-file_size: '119538784'
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -19,9 +25,9 @@ title: Lecture 18 Video
 uid: 2db322ee-a658-11dd-40da-424b9999b5b6
 video_files:
   archive_url: http://www.archive.org/download/MIT6.041F10/MIT6_041F11_lec18_300k.mp4
-  video_captions_file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/HIMxdWDLEK8_captions.webvtt
+  video_captions_file: null
   video_thumbnail_file: https://img.youtube.com/vi/HIMxdWDLEK8/default.jpg
-  video_transcript_file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/HIMxdWDLEK8_transcript.pdf
+  video_transcript_file: null
 video_metadata:
   youtube_id: HIMxdWDLEK8
 ---
