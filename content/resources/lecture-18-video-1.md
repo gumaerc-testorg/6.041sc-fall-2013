@@ -3,7 +3,6 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
-file_size: '119538784'
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -20,9 +19,9 @@ title: 'Lecture 18: Markov Chains - III'
 uid: 7bff46a0-d649-d999-b023-5893574a3d8f
 video_files:
   archive_url: http://www.archive.org/download/MIT6.041F10/MIT6_041F11_lec18_300k.mp4
-  video_captions_file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/HIMxdWDLEK8_captions.webvtt
+  video_captions_file: null
   video_thumbnail_file: https://img.youtube.com/vi/HIMxdWDLEK8/default.jpg
-  video_transcript_file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/HIMxdWDLEK8_transcript.pdf
+  video_transcript_file: null
 video_metadata:
   youtube_id: HIMxdWDLEK8
 ---

@@ -3,7 +3,6 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
-file_size: '121609333'
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -20,9 +19,9 @@ title: 'Lecture 14: Poisson Process - I'
 uid: 85acab23-21fa-3bd5-cf11-07775203981e
 video_files:
   archive_url: http://www.archive.org/download/MIT6.041F10/MIT6_041F11_lec14_300k.mp4
-  video_captions_file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/jsqSScywvMc_captions.webvtt
+  video_captions_file: null
   video_thumbnail_file: https://img.youtube.com/vi/jsqSScywvMc/default.jpg
-  video_transcript_file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/jsqSScywvMc_transcript.pdf
+  video_transcript_file: null
 video_metadata:
   youtube_id: jsqSScywvMc
 ---
