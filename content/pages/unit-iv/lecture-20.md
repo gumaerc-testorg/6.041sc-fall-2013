@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides materials for a lecture on the central limit theorem.
+  It includes the list of lecture topics, lecture video, lecture slides, readings,
+  recitation problems, and recitation help videos.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit IV: Laws Of Large Numbers And Inference'
@@ -9,7 +12,7 @@ title: 'Lecture 20: Central Limit Theorem'
 uid: 7130cfbd-1446-2844-68da-e83bdd28e426
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-iv/lecture-19) | [Next]({{< baseurl >}}/pages/unit-iv/lecture-21) »
+« {{% resource_link a7292289-e3eb-1f87-59fe-7822a15409c3 "Previous" %}} | {{% resource_link ae332133-ad68-021b-8c11-95c3e6b70d0d "Next" %}} »
 
 Lecture Topics
 --------------
@@ -17,7 +20,7 @@ Lecture Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Lecture_20.jpg]({{< resource_file 8fc917bb-2a3e-da2d-3cfb-f376d9e2ea47 >}})
+{{< resource 8fc917bb-2a3e-da2d-3cfb-f376d9e2ea47 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -37,8 +40,8 @@ Lecture Topics
 Lecture Activities
 ------------------
 
-*   Watch the [Lecture 20 Video]({{< baseurl >}}/resources/lecture-20-video) by Prof. Tsitsiklis (00:51:23)
-*   Review the [Lecture 20: Central Limit Theorem Slides (PDF)]({{< baseurl >}}/resources/mit6_041scf13_l20)
+*   Watch the {{% resource_link 5818ad9e-2f0d-809e-f5a0-e194d89971df "Lecture 20 Video" %}} by Prof. Tsitsiklis (00:51:23)
+*   Review the {{% resource_link e2d51b7d-3f67-afbc-118d-bb3478276ec5 "Lecture 20: Central Limit Theorem Slides (PDF)" %}}
 *   Read Section 5.4 in the textbook
 
 Recitation Problems and Recitation Help Videos
@@ -46,8 +49,8 @@ Recitation Problems and Recitation Help Videos
 
 Review the recitation problems in the PDF file below and try to solve them on your own. Two of the problems have an accompanying video where a teaching assistant solves the same problem.
 
-*   [Recitation 21 Problems (PDF)]({{< baseurl >}}/resources/mit6_041scf13_rec21)
-*   [Recitation 21 Solutions (PDF)]({{< baseurl >}}/resources/mit6_041scf13_rec21_sol)
+*   {{% resource_link 67372f49-e4ff-beb9-524d-e39b77ef2882 "Recitation 21 Problems (PDF)" %}}
+*   {{% resource_link 6c1087e5-cbd6-ec40-3e59-49fc9d1dcbe2 "Recitation 21 Solutions (PDF)" %}}
 
 ### Recitation Help Videos
 
@@ -72,7 +75,7 @@ PROBLEM SOLVED BY
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Probabilty Bounds]({{< baseurl >}}/resources/probabilty-bounds)
+{{% resource_link 6126258a-c788-07cd-a13a-9702b3fc540c "Probabilty Bounds" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Kuang Xu
@@ -84,7 +87,7 @@ Kuang Xu
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Using the Central Limit Theorem]({{< baseurl >}}/resources/using-the-central-limit-theorem)
+{{% resource_link 92da02ab-4756-5be0-0df4-a306f4bf3cb3 "Using the Central Limit Theorem" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Jagdish Ramakrishnan
@@ -94,4 +97,4 @@ Jagdish Ramakrishnan
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/unit-iv/lecture-19) | [Next]({{< baseurl >}}/pages/unit-iv/lecture-21) »
+« {{% resource_link a7292289-e3eb-1f87-59fe-7822a15409c3 "Previous" %}} | {{% resource_link ae332133-ad68-021b-8c11-95c3e6b70d0d "Next" %}} »

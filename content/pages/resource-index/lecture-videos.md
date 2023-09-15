@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides lecture videos on probabilistic systems analysis
+  and applied probability.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Resource Index
