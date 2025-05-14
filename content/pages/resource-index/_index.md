@@ -266,13 +266,13 @@ QUIZ AND SOLUTIONS
 
 {{% resource_link "337c2b84-8282-f311-9119-6653a3fd7a45" "Quiz 1 Slides (PDF)" %}}
 
-{{% resource_link "dd524390-df7b-b781-33d1-bff2fc5d13ae" "Quiz 1 Spring 2009 (PDF)" %}}    
+{{% resource_link "dd524390-df7b-b781-33d1-bff2fc5d13ae" "Quiz 1 Spring 2009 (PDF)" %}}      
 {{% resource_link "ce9cf192-1235-ff10-5c2f-08ba70ccd487" "Quiz 1 Spring 2009 Solutions (PDF)" %}}
 
-{{% resource_link "658092a5-b70f-843d-5547-6d84eb5b3510" "Quiz 1 Fall 2009 (PDF)" %}}    
+{{% resource_link "658092a5-b70f-843d-5547-6d84eb5b3510" "Quiz 1 Fall 2009 (PDF)" %}}      
 {{% resource_link "9676659a-c79d-4b10-b1ef-1460668146c9" "Quiz 1 Fall 2009 Solutions (PDF)" %}}
 
-{{% resource_link "425d7741-c996-aa8b-265c-b19e251e5065" "Recitation 10 Problems (PDF)" %}}    
+{{% resource_link "425d7741-c996-aa8b-265c-b19e251e5065" "Recitation 10 Problems (PDF)" %}}      
 {{% resource_link "b758eed8-104e-121a-f3f8-97da6127acbb" "Recitation 10 Solutions (PDF)" %}}
 
 {{< tdclose >}}{{< tdopen >}}
@@ -395,7 +395,7 @@ Sections 3.6 and 4.1
 
 {{% resource_link "3173bcc5-6120-9f92-1ce6-57c3d449ef82" "A Derived Distribution Example" %}}
 
-{{% resource_link "4602599c-8399-62a8-cff2-d192ae802d7e" "The Probability Distribution Function (PDF) of [X]" %}}
+{{% resource_link "4602599c-8399-62a8-cff2-d192ae802d7e" "The Probability Distribution Function (PDF) of \[X\]" %}}
 
 {{% resource_link "0da10ed8-f0a4-8e2d-f103-7e1da64e0956" "Ambulance Travel Time" %}}
 
@@ -491,17 +491,17 @@ QUIZ AND SOLUTIONS
 
 {{% resource_link "9a8b47ab-a47d-109d-8a68-115aad3282bb" "Quiz 2 Slides (PDF)" %}}
 
-{{% resource_link "90d216ea-3cf9-aa78-1020-7ccfa09b26df" "Quiz 2 Spring 2008 (PDF)" %}}    
+{{% resource_link "90d216ea-3cf9-aa78-1020-7ccfa09b26df" "Quiz 2 Spring 2008 (PDF)" %}}      
 {{% resource_link "cf0eba3c-443f-aa1f-571a-d4f826556f31" "Quiz 2 Spring 2008 Solutions (PDF)" %}}
 
-{{% resource_link "84cea77f-c738-2936-1e91-a7c2df7bf9b3" "Quiz 2 Fall 2009 (PDF)" %}}    
+{{% resource_link "84cea77f-c738-2936-1e91-a7c2df7bf9b3" "Quiz 2 Fall 2009 (PDF)" %}}      
 {{% resource_link "b2ab1cbf-4196-7f99-d9b7-15b4d3b47054" "Quiz 2 Fall 2009 Solutions (PDF)" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
 {{% resource_link "e76c7f4b-1973-a8bc-173b-dceb42130b53" "Quiz 2 (PDF)" %}}
 
-{{% resource_link "711efc3b-56e2-3526-c17f-b1257b858363" "Quiz 2 Solutions (PDF)" %}}
+{{% resource_link "670b0048-c43c-49e9-bc67-405440834c1d" "Quiz 2 Solutions (PDF)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
@@ -885,10 +885,10 @@ QUIZ AND SOLUTIONS
 The Final Exam covers the entire course, however the emphasis is on the material not covered in Quiz 1 and Quiz 2.
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "3c8ab5ee-f0c4-c049-599c-d89e0129389b" "Quiz Spring 2009 (PDF)" %}}    
+{{% resource_link "3c8ab5ee-f0c4-c049-599c-d89e0129389b" "Quiz Spring 2009 (PDF)" %}}      
 {{% resource_link "1b04056a-a8ce-6d76-17ca-0dafe875511e" "Quiz Spring 2009 Solutions (PDF)" %}}
 
-{{% resource_link "366ba518-9ff5-8920-6a34-694d36559dea" "Quiz Fall 2009 (PDF)" %}}    
+{{% resource_link "366ba518-9ff5-8920-6a34-694d36559dea" "Quiz Fall 2009 (PDF)" %}}      
 {{% resource_link "18c78ae1-f1a7-6986-cc1e-17242eab6abd" "Quiz Fall 2009 Solutions (PDF)" %}}
 
 {{< tdclose >}}{{< tdopen >}}
