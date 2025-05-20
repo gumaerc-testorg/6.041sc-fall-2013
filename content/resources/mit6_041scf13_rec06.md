@@ -3,14 +3,14 @@ content_type: resource
 description: ''
 draft: false
 file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/70b7207f9fd6cb7177979f5729ecbb77_MIT6_041SCF13_rec06.pdf
-file_size: ''
+file_size: 78395
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Lecture 6: Discrete Random Variable Examples; Joint PMFs'

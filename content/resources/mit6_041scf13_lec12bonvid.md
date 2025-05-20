@@ -3,14 +3,14 @@ content_type: resource
 description: ''
 draft: false
 file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/b43d59e9ea95260c8fcc7021a7e3b0a5_MIT6_041SCF13_Lec12BonVid.pdf
-file_size: ''
+file_size: 134017
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Lecture 12: Iterated Expectations; Sum of a Random Number of Random

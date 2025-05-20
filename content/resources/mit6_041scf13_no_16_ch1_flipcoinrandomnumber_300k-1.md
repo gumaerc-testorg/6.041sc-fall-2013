@@ -3,14 +3,13 @@ content_type: resource
 description: ''
 draft: false
 file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/029931322b93bcaedb9a1dd6b234b1c3_MIT6_041SCF13_No_16_Ch1_FlipCoinRandomNumber_300k.pdf
-file_size: ''
+file_size: 532270
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types:
-- Lecture Notes
+learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
