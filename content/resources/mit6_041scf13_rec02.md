@@ -3,14 +3,14 @@ content_type: resource
 description: ''
 draft: false
 file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/6f2a143e2dab0a50606ee78d1833b3bc_MIT6_041SCF13_rec02.pdf
-file_size: ''
+file_size: 65450
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Lecture 2: Conditioning and Bayes'' Rule'

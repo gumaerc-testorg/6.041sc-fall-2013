@@ -3,14 +3,14 @@ content_type: resource
 description: ''
 draft: false
 file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/425d7741c996aa8b265cb19e251e5065_MIT6_041SCF13_rec10.pdf
-file_size: ''
+file_size: 77917
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Quiz 1

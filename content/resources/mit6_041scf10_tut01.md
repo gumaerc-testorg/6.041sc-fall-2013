@@ -3,13 +3,14 @@ content_type: resource
 description: ''
 draft: false
 file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/d7b8d818028ba5d3d92a7f752e01f4e1_MIT6_041SCF10_tut01.pdf
-file_size: ''
+file_size: 87137
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Lecture 3: Independence'

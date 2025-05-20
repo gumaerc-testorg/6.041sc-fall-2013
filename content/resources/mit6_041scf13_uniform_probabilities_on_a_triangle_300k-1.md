@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 draft: false
 file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/764ee12927ae112740bc1a73020d350a_MIT6_041SCF13_Uniform_Probabilities_on_a_Triangle_300k.pdf
-file_size: ''
+file_size: 548752
 file_type: application/pdf
 image_metadata:
   caption: ''

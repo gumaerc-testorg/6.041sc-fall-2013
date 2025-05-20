@@ -3,14 +3,14 @@ content_type: resource
 description: ''
 draft: false
 file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/76b15c9224e073f83056d4a387acaebe_MIT6_041SCF13_rec19.pdf
-file_size: ''
+file_size: 64633
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Lecture 18: Markov Chains - III'

@@ -3,14 +3,13 @@ content_type: resource
 description: ''
 draft: false
 file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/2d48558a40ef4e68ffe5d91cb5e6651e_MIT6_041SCF13_No_9_Ch1_NetworkReliability_300k.pdf
-file_size: ''
+file_size: 533846
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types:
-- Lecture Notes
+learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Unit I: Probability Models And Discrete Random Variables '
