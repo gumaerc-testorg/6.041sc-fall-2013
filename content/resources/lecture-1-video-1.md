@@ -1,11 +1,16 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
 file_size: '118062027'
-learning_resource_types:
-- Lecture Videos
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
@@ -26,8 +31,6 @@ video_files:
 video_metadata:
   youtube_id: j9WZyLZCBzs
 ---
-
 **Description**: In this lecture, the professor discussed probability as a mathematical framework, probabilistic models, axioms of probability, and gave some simple examples.
 
 **Instructor**: John Tsitsiklis
-
