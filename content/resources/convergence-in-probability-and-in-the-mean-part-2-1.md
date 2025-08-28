@@ -4,7 +4,7 @@ description: ''
 draft: false
 end_time: ''
 file: null
-file_size: null
+file_size: 11239411
 file_type: ''
 image_metadata:
   caption: ''
@@ -24,7 +24,7 @@ start_time: ''
 title: Convergence in Probability and in the Mean Part 2
 uid: 77154151-1bca-5a56-ca37-7058f68fbcfa
 video_files:
-  archive_url: http://www.archive.org/download/MIT6.041SCF13/MIT6_041SCF13_No32_Rec20_P2_ConvgProb1_Part%28e%29%28f%29_300k.mp4
+  archive_url: https://ia800207.us.archive.org/19/items/MIT6.041SCF13/MIT6_041SCF13_No32_Rec20_P2_ConvgProb1_Partef_300k.mp4
   video_captions_file: null
   video_thumbnail_file: https://img.youtube.com/vi/D_vUxa3tEGs/default.jpg
   video_transcript_file: null

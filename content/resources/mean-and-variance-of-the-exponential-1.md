@@ -4,14 +4,14 @@ description: ''
 draft: false
 end_time: ''
 file: null
-file_size: null
+file_size: 51902899
 file_type: ''
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Recitation Videos
+- Problem-solving Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -25,7 +25,7 @@ start_time: ''
 title: Mean and Variance of the Exponential
 uid: 34cc9c7a-a719-c69d-95a5-d14096c11bb6
 video_files:
-  archive_url: http://www.archive.org/download/MIT6.041SCF13/MIT6_041SCF13_Mean_%26_Variance_of_the_Exponential_300k.mp4
+  archive_url: https://ia800207.us.archive.org/19/items/MIT6.041SCF13/MIT6_041SCF13_Mean__Variance_of_the_Exponential_300k.mp4
   video_captions_file: null
   video_thumbnail_file: https://img.youtube.com/vi/GJ2klfD0Q3g/default.jpg
   video_transcript_file: null

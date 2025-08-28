@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/98922a9cd007bb11bfd542b08da48244_MIT6_041SCF13_Competing_Exponentials_300k.pdf
+file: /ol-ocw-studio-app/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/98922a9cd007bb11bfd542b08da48244_MIT6_041SCF13_Competing_Exponentials_300k.pdf
 file_size: 533894
 file_type: application/pdf
 image_metadata:
