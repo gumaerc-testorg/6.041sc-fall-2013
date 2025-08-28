@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/c5e3e63cde953c56271d0fae394608f4_MIT6_041SCF13_Joint_PMF_Drill1_300k.pdf
+file: /ol-ocw-studio-app/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/c5e3e63cde953c56271d0fae394608f4_MIT6_041SCF13_Joint_PMF_Drill1_300k.pdf
 file_size: 546087
 file_type: application/pdf
 image_metadata:
