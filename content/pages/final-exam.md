@@ -43,7 +43,7 @@ For those wishing further study, there are the following possible directions:
 
 - A deeper study of the mathematical foundations of the subject, relying on measure theory \[[*6.436J Fundamentals of Probability*](/courses/6-436j-fundamentals-of-probability-fall-2018), [*18.175 Theory of Probability*](/courses/18-175-theory-of-probability-spring-2014), *18.176 Stochastic Calculus*\]
 - Further classes on discrete random processes \[[*6.262 Discrete Stochastic Processes*](/courses/6-262-discrete-stochastic-processes-spring-2011), *18.445 Introduction to Stochastic Processes*\] or random processes that evolve in continuous time over continuous state spaces \[[*15.070 Advanced Stochastic Processes*](/courses/15-070j-advanced-stochastic-processes-fall-2013)\]
-- Classes on statistics and inference \[[*15.097 Prediction: Machine Learning and Statistics*](/courses/15-097-prediction-machine-learning-and-statistics-spring-2012), [*18.443 Statistics for Applications*](https://ocw.mit.edu/courses/18-443-statistics-for-applications-fall-2006/)\] and associated algorithms \[\_6.438 Algorithms for Inference\_\]   
+- Classes on statistics and inference \[[*15.097 Prediction: Machine Learning and Statistics*](/courses/15-097-prediction-machine-learning-and-statistics-spring-2012), {{% resource_link "0a582ed2-b1c3-442f-91cb-3e145b6bd67b" "*18.443 Statistics for Applications*" %}}\] and associated algorithms \[\_6.438 Algorithms for Inference\_\]   
      
 
 « {{% resource_link "954792d8-6c4c-0407-b8df-99d7c887dade" "Previous" %}}
