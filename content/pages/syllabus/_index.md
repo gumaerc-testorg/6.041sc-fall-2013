@@ -67,7 +67,7 @@ More technical:
 
 The text for this course is:
 
-Bertsekas, Dimitri, and John Tsitsiklis. _Introduction to Probability._ 2nd ed. [Athena Scientific](http://www.athenasc.com/), 2008. ISBN: 9781886529236.
+Bertsekas, Dimitri, and John Tsitsiklis. _Introduction to Probability._ 2nd ed. {{% resource_link "bc91aa94-8f73-405c-8ce3-7e35b8d6fac2" "Athena Scientific" %}}, 2008. ISBN: 9781886529236.
 
 ## Format
 
